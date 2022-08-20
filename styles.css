@@ -1,7 +1,8 @@
+#nav{
+  background-color: #11999E;
+}
 body{
   color: #40514E;
-  margin: 0;
-  margin:0 auto 0 auto;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -9,11 +10,9 @@ p{
   line-height: 2;
 }
 h1{
- margin: 180px auto 0px auto;
- font-size: 5.625rem;
  font-family: 'Sacramento', cursive;
  color: #66BFBF;
- line-height: 2;
+ font-size: 80px;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
@@ -28,25 +27,20 @@ h3{
 .Top-Container {
   background-color: #EAF6F6;
   position: relative;
-  padding-top: 100px;
+  padding-top: 250px;
+  text-align: center;
+
 }
 .middle-container{
-  margin-top: 20px;
+  margin-top: 80px;
+  text-align: center;
 }
 .bottom-container{
   background-color: #66BFBF;
   margin-top: 100px;
   padding-top: 50px;
   padding-bottom: 50px;
-}
-hr {
-  background-color: none;
-  border-color: grey;
-  border-style: dotted none none none;
-  border-width:6px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  width: 4%;
+  text-align: center;
 }
 .footer-link{
   color: #11999E;
@@ -66,7 +60,7 @@ hr {
 .design-img{
   width: 25%;
   float: right;
-  margin-left: : 30px;
+  margin-left: 30px;
 }
 .Copy{
   color: #EAF6F6;
